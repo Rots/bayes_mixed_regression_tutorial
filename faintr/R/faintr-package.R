@@ -28,4 +28,3 @@
 #' \code{\link{brm}}, 
 #' \code{\link{brmsfit}}
 #'
-NULL
